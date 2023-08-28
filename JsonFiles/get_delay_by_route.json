@@ -1,0 +1,467 @@
+{"trip_id":"88____:007::8896008:8893401:30:2412:20230331","route_long_name":"Termonde -- Courtrai","total_delay":150.0}
+{"trip_id":"88____:007::8821006:8892106:17:2349:20231208","route_long_name":"Anvers-Central -- Courtrai","total_delay":74.0}
+{"trip_id":"88____:046::8865300:8863834:8:625:20230318","route_long_name":"Gendron-Celles -- Bertrix","total_delay":74.0}
+{"trip_id":"88____:007::8892106:8896008:4:2411:20231208","route_long_name":"Anvers-Central -- Courtrai","total_delay":71.0}
+{"trip_id":"88____:G71::8892007:8895208:10:2339:20231209","route_long_name":"Gand-Saint-Pierre -- Grammont","total_delay":37.0}
+{"trip_id":"88____:G71::8895208:8895505:3:2355:20231209","route_long_name":"Gand-Saint-Pierre -- Grammont","total_delay":35.0}
+{"trip_id":"88____:007::8833605:8814001:18:2345:20230414","route_long_name":"Bruxelles-Midi -- Landen","total_delay":29.0}
+{"trip_id":"88____:007::8892007:8833001:26:2350:20231208","route_long_name":"Landen -- Gand-Saint-Pierre","total_delay":27.0}
+{"trip_id":"88____:007::8841608:8874609:32:2333:20230407","route_long_name":"Herstal -- Charleroi-Central","total_delay":25.0}
+{"trip_id":"88____:007::8874609:8872009:7:2346:20230407","route_long_name":"Herstal -- Charleroi-Central","total_delay":25.0}
+{"trip_id":"88____:007::8833605:8892007:31:2347:20231208","route_long_name":"Landen -- Gand-Saint-Pierre","total_delay":23.0}
+{"trip_id":"88____:A71::8821402:8821006:11:2410:20231208","route_long_name":"Roosendaal (nl) -- Anvers-Central","total_delay":23.0}
+{"trip_id":"88____:007::8821006:8892007:15:2433:20230616","route_long_name":"Anvers-Central -- Courtrai","total_delay":18.0}
+{"trip_id":"88____:007::8833001:8833605:6:2422:20231208","route_long_name":"Landen -- Gand-Saint-Pierre","total_delay":18.0}
+{"trip_id":"88____:007::8895208:8896008:7:2351:20230331","route_long_name":"Brussels Airport - Zaventem -- Courtrai","total_delay":17.0}
+{"trip_id":"88____:007::8831765:8891009:37:2351:20231208","route_long_name":"Genk -- Bruges","total_delay":16.0}
+{"trip_id":"88____:046::8833209:8821006:11:2402:20231208","route_long_name":"Anvers-Central -- Louvain","total_delay":13.0}
+{"trip_id":"88____:046::8863008:8864501:9:652:20231209","route_long_name":"Namur -- Ciney","total_delay":13.0}
+{"trip_id":"88____:070::8814001:8821006:20:2455:20231208","route_long_name":"Nivelles -- Anvers-Central","total_delay":13.0}
+{"trip_id":"88____:007::8891702:8841004:40:2544:20230414","route_long_name":"Liege-Guillemins -- Ostende","total_delay":12.0}
+{"trip_id":"88____:L72::8849064:8841004:5:2432:20230317","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":12.0}
+{"trip_id":"88____:007::8885704:8884004:12:552:20230319","route_long_name":"Saint-Ghislain -- Mouscron","total_delay":11.0}
+{"trip_id":"88____:046::8866001:8866407:6:621:20230415","route_long_name":"Libramont -- Arlon","total_delay":11.0}
+{"trip_id":"88____:007::8814001:8864501:35:2403:20231208","route_long_name":"Bruxelles-Midi -- Ciney","total_delay":10.0}
+{"trip_id":"88____:046::8811601:8861440:10:648:20231209","route_long_name":"Ottignies -- Namur","total_delay":10.0}
+{"trip_id":"88____:046::8833001:8821006:13:714:20231209","route_long_name":"Anvers-Central -- Louvain","total_delay":10.0}
+{"trip_id":"88____:046::8831401:8831005:3:2404:20231208","route_long_name":"Hasselt -- Louvain","total_delay":9.0}
+{"trip_id":"88____:A71::8822715:8821402:20:2450:20231208","route_long_name":"Essen -- Puurs","total_delay":9.0}
+{"trip_id":"88____:A73::8821006:8894508:8:2350:20231208","route_long_name":"Anvers-Central -- Saint-Nicolas","total_delay":9.0}
+{"trip_id":"82____:046::8200940:8200100:9:2410:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":8.0}
+{"trip_id":"88____:072::8895802:8895208:9:2414:20231208","route_long_name":"Bruxelles-Nord -- Audenarde","total_delay":8.0}
+{"trip_id":"88____:007::8844628:8891009:40:2407:20230317","route_long_name":"Eupen -- Ostende","total_delay":7.0}
+{"trip_id":"88____:072::8895208:8892601:4:2430:20231208","route_long_name":"Bruxelles-Nord -- Audenarde","total_delay":7.0}
+{"trip_id":"88____:007::8891702:8844628:40:843:20230319","route_long_name":"Eupen -- Ostende","total_delay":6.0}
+{"trip_id":"88____:007::8894508:8814308:25:2357:20231208","route_long_name":"Ath -- Saint-Nicolas","total_delay":6.0}
+{"trip_id":"88____:046::8866407:8865003:4:704:20230415","route_long_name":"Libramont -- Arlon","total_delay":6.0}
+{"trip_id":"88____:007::8814001:8841525:48:2420:20230406","route_long_name":"Bruxelles-Midi -- Liege-Saint-Lambert","total_delay":5.0}
+{"trip_id":"88____:007::8821121:8832409:11:2428:20230317","route_long_name":"Anvers-Berchem -- Mol","total_delay":5.0}
+{"trip_id":"88____:007::8841004:8845005:13:721:20230327","route_long_name":"Clervaux (l) -- Liege-Guillemins","total_delay":5.0}
+{"trip_id":"88____:007::8841673:8841608:3:623:20230326","route_long_name":"Liers -- Tournai","total_delay":5.0}
+{"trip_id":"88____:007::8844628:8891009:51:2524:20230520","route_long_name":"Eupen -- Ostende","total_delay":5.0}
+{"trip_id":"88____:007::8884004:8885704:12:652:20230319","route_long_name":"Saint-Ghislain -- Mouscron","total_delay":5.0}
+{"trip_id":"88____:007::8891009:8891702:2:2423:20230317","route_long_name":"Eupen -- Ostende","total_delay":5.0}
+{"trip_id":"88____:007::8891702:8844503:52:2454:20230317","route_long_name":"Welkenraedt -- Ostende","total_delay":5.0}
+{"trip_id":"88____:046::8841004:8843307:12:647:20230416","route_long_name":"Liege-Guillemins -- Namur","total_delay":5.0}
+{"trip_id":"88____:046::8892007:8891009:10:2426:20230407","route_long_name":"Malines -- Bruges","total_delay":5.0}
+{"trip_id":"88____:046::8896149:8892007:4:554:20231209","route_long_name":"Gand-Saint-Pierre -- Courtrai","total_delay":5.0}
+{"trip_id":"88____:071::8883006:8833001:24:2419:20231208","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":5.0}
+{"trip_id":"88____:007::8814308:8886009:4:2426:20231208","route_long_name":"Ath -- Saint-Nicolas","total_delay":4.0}
+{"trip_id":"88____:007::8819406:8814308:12:2405:20230317","route_long_name":"Hal -- Brussels Airport - Zaventem","total_delay":4.0}
+{"trip_id":"88____:007::8819406:8885001:20:714:20230416","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":4.0}
+{"trip_id":"88____:007::8821006:8831401:23:2408:20231208","route_long_name":"Anvers-Central -- Hasselt","total_delay":4.0}
+{"trip_id":"88____:007::8821006:8833001:17:523:20231209","route_long_name":"Anvers-Central -- Louvain","total_delay":4.0}
+{"trip_id":"88____:007::8842705:8841004:8:2355:20230326","route_long_name":"Luxembourg (l) -- Liege-Guillemins","total_delay":4.0}
+{"trip_id":"88____:007::8869054:8814001:52:928:20230318","route_long_name":"Luxembourg (l) -- Bruxelles-Midi","total_delay":4.0}
+{"trip_id":"88____:007::8885704:8884004:12:652:20230319","route_long_name":"Saint-Ghislain -- Mouscron","total_delay":4.0}
+{"trip_id":"88____:007::8893401:8892007:29:719:20230319","route_long_name":"Gand-Saint-Pierre -- Termonde","total_delay":4.0}
+{"trip_id":"88____:046::8864006:8865003:5:702:20231209","route_long_name":"Rochefort-Jemelle -- Libramont","total_delay":4.0}
+{"trip_id":"88____:070::8821006:8872009:37:2427:20230330","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":4.0}
+{"trip_id":"88____:081::8811601:8833159:10:648:20231209","route_long_name":"Ottignies -- Louvain","total_delay":4.0}
+{"trip_id":"88____:007::8814001:8821006:20:651:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":3.0}
+{"trip_id":"88____:007::8819406:8814001:10:2410:20231208","route_long_name":"Bruxelles-Midi -- Brussels Airport - Zaventem","total_delay":3.0}
+{"trip_id":"88____:007::8819406:8891009:17:2434:20230324","route_long_name":"Brussels Airport - Zaventem -- Bruges","total_delay":3.0}
+{"trip_id":"88____:007::8821006:8872009:37:757:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":3.0}
+{"trip_id":"88____:007::8821105:8814001:22:2417:20230320","route_long_name":"Amsterdam Cs (nl) -- Bruxelles-Midi","total_delay":3.0}
+{"trip_id":"88____:007::8821717:8821006:10:542:20230318","route_long_name":"Anvers-Central -- Mol","total_delay":3.0}
+{"trip_id":"88____:007::8821907:8821006:11:708:20230325","route_long_name":"Anvers-Central -- Turnhout","total_delay":3.0}
+{"trip_id":"88____:007::8831005:8892007:35:2420:20231208","route_long_name":"Tongres -- Gand-Saint-Pierre","total_delay":3.0}
+{"trip_id":"88____:007::8841608:8881000:50:846:20230326","route_long_name":"Liers -- Tournai","total_delay":3.0}
+{"trip_id":"88____:007::8863008:8814001:27:628:20230402","route_long_name":"Bruxelles-Midi -- Namur","total_delay":3.0}
+{"trip_id":"88____:007::8886009:8883311:3:625:20231209","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":3.0}
+{"trip_id":"88____:007::8891702:8844628:39:743:20230326","route_long_name":"Eupen -- Ostende","total_delay":3.0}
+{"trip_id":"88____:007::8891702:8844628:40:943:20230319","route_long_name":"Eupen -- Ostende","total_delay":3.0}
+{"trip_id":"88____:007::8892007:8895802:11:618:20231209","route_long_name":"Gand-Saint-Pierre -- Lokeren","total_delay":3.0}
+{"trip_id":"88____:046::8833209:8833001:3:2402:20231208","route_long_name":"Anvers-Central -- Louvain","total_delay":3.0}
+{"trip_id":"88____:070::8814001:8821006:20:655:20230318","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":3.0}
+{"trip_id":"88____:070::8821006:8872009:37:2522:20230317","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":3.0}
+{"trip_id":"88____:078::8811601:8814001:17:712:20231209","route_long_name":"Louvain-La-Neuve -- Bruxelles-Midi","total_delay":3.0}
+{"trip_id":"88____:097::8814209:8833001:27:615:20231209","route_long_name":"Nivelles -- Louvain","total_delay":3.0}
+{"trip_id":"88____:L72::8841004:8846201:3:625:20231209","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":3.0}
+{"trip_id":"88____:007::8814001:8819406:10:624:20231209","route_long_name":"Bruxelles-Midi -- Brussels Airport - Zaventem","total_delay":2.0}
+{"trip_id":"88____:007::8814001:8821006:20:2453:20230317","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":2.0}
+{"trip_id":"88____:007::8814001:8863008:27:713:20230319","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":2.0}
+{"trip_id":"88____:007::8814308:8819406:15:724:20231209","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":2.0}
+{"trip_id":"88____:007::8819406:8814001:10:23:20230318","route_long_name":"Bruxelles-Midi -- Brussels Airport - Zaventem","total_delay":2.0}
+{"trip_id":"88____:007::8821006:8814001:20:2403:20230407","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":2.0}
+{"trip_id":"88____:007::8821006:8896008:20:705:20230319","route_long_name":"Anvers-Central -- Poperinge","total_delay":2.0}
+{"trip_id":"88____:007::8821121:8892007:14:707:20230319","route_long_name":"Anvers-Central -- Gand-Saint-Pierre","total_delay":2.0}
+{"trip_id":"88____:007::8821402:8814001:30:2411:20230317","route_long_name":"Bruxelles-Midi -- Essen","total_delay":2.0}
+{"trip_id":"88____:007::8831005:8821006:17:731:20230319","route_long_name":"Anvers-Central -- Hasselt","total_delay":2.0}
+{"trip_id":"88____:007::8831807:8833001:7:639:20230326","route_long_name":"Saint-Trond -- Louvain","total_delay":2.0}
+{"trip_id":"88____:007::8833001:8822004:8:2423:20231208","route_long_name":"Malines -- Louvain","total_delay":2.0}
+{"trip_id":"88____:007::8833001:8892338:36:808:20231209","route_long_name":"Louvain -- La Panne","total_delay":2.0}
+{"trip_id":"88____:007::8833605:8833001:6:606:20231209","route_long_name":"Landen -- La Panne","total_delay":2.0}
+{"trip_id":"88____:007::8833605:8833001:6:706:20231209","route_long_name":"Landen -- La Panne","total_delay":2.0}
+{"trip_id":"88____:007::8841004:8891702:40:733:20230319","route_long_name":"Liege-Guillemins -- Ostende","total_delay":2.0}
+{"trip_id":"88____:007::8863008:8814001:27:728:20230402","route_long_name":"Bruxelles-Midi -- Namur","total_delay":2.0}
+{"trip_id":"88____:007::8863008:8841673:25:743:20230416","route_long_name":"Liers -- Namur","total_delay":2.0}
+{"trip_id":"88____:007::8874724:8841673:32:944:20230325","route_long_name":"Liers -- Mouscron","total_delay":2.0}
+{"trip_id":"88____:007::8881000:8841673:52:844:20230416","route_long_name":"Liers -- Mons","total_delay":2.0}
+{"trip_id":"88____:007::8882362:8811007:19:751:20230318","route_long_name":"Schaerbeek -- Binche","total_delay":2.0}
+{"trip_id":"88____:007::8885001:8886009:3:606:20231209","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":2.0}
+{"trip_id":"88____:007::8891009:8831765:36:759:20230501","route_long_name":"Genk -- Bruges","total_delay":2.0}
+{"trip_id":"88____:007::8891009:8831765:36:859:20230501","route_long_name":"Genk -- Bruges","total_delay":2.0}
+{"trip_id":"88____:007::8891009:8896008:8:823:20231209","route_long_name":"Bruges -- Courtrai","total_delay":2.0}
+{"trip_id":"88____:007::8892007:8833605:31:823:20230319","route_long_name":"Landen -- Gand-Saint-Pierre","total_delay":2.0}
+{"trip_id":"88____:007::8892338:8833605:41:923:20230318","route_long_name":"Landen -- La Panne","total_delay":2.0}
+{"trip_id":"88____:046::8822111:8893401:5:2359:20230407","route_long_name":"Malines -- Termonde","total_delay":2.0}
+{"trip_id":"88____:046::8822111:8893401:5:632:20230423","route_long_name":"Malines -- Courtrai","total_delay":2.0}
+{"trip_id":"88____:046::8893401:8896008:15:637:20231209","route_long_name":"Termonde -- Courtrai","total_delay":2.0}
+{"trip_id":"88____:070::8814209:8821006:31:755:20230318","route_long_name":"Nivelles -- Anvers-Central","total_delay":2.0}
+{"trip_id":"88____:070::8821006:8814209:31:759:20230318","route_long_name":"Nivelles -- Anvers-Central","total_delay":2.0}
+{"trip_id":"88____:097::8811304:8833001:15:515:20230318","route_long_name":"Bruxelles-Luxembourg -- Louvain","total_delay":2.0}
+{"trip_id":"88____:A71::8821519:8400526:7:638:20231209","route_long_name":"Roosendaal (nl) -- Anvers-Central","total_delay":2.0}
+{"trip_id":"88____:L70::8841608:8841004:4:618:20231209","route_long_name":"Herstal -- Verviers-Central","total_delay":2.0}
+{"trip_id":"82____:046::8200940:8200100:9:610:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":1.0}
+{"trip_id":"88____:007::8811007:8882206:20:725:20230319","route_long_name":"Schaerbeek -- Binche","total_delay":1.0}
+{"trip_id":"88____:007::8811601:8814001:17:657:20231209","route_long_name":"Bruxelles-Midi -- Namur","total_delay":1.0}
+{"trip_id":"88____:007::8812005:8872009:22:658:20231209","route_long_name":"Bruxelles-Nord -- Charleroi-Central","total_delay":1.0}
+{"trip_id":"88____:007::8812047:8892007:20:819:20230319","route_long_name":"Gand-Saint-Pierre -- Termonde","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8400131:23:718:20230422","route_long_name":"Amsterdam Cs (nl) -- Bruxelles-Midi","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8819406:10:524:20231209","route_long_name":"Bruxelles-Midi -- Brussels Airport - Zaventem","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8819406:7:531:20231209","route_long_name":"Bruxelles-Midi -- Brussels Airport - Zaventem","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8819406:7:602:20231209","route_long_name":"Bruxelles-Midi -- Brussels Airport - Zaventem","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8821006:20:720:20230319","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8821006:20:820:20230319","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8864006:41:826:20230319","route_long_name":"Luxembourg (l) -- Bruxelles-Midi","total_delay":1.0}
+{"trip_id":"88____:007::8814001:8864006:41:926:20230319","route_long_name":"Luxembourg (l) -- Bruxelles-Midi","total_delay":1.0}
+{"trip_id":"88____:007::8814209:8814001:12:556:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":1.0}
+{"trip_id":"88____:007::8819406:8883113:16:622:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":1.0}
+{"trip_id":"88____:007::8819406:8885001:20:814:20230416","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":1.0}
+{"trip_id":"88____:007::8819406:8885001:20:914:20230416","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":1.0}
+{"trip_id":"88____:007::8819406:8895455:17:709:20230319","route_long_name":"Brussels Airport - Zaventem -- Burst","total_delay":1.0}
+{"trip_id":"88____:007::8819406:8895455:17:809:20230319","route_long_name":"Brussels Airport - Zaventem -- Burst","total_delay":1.0}
+{"trip_id":"88____:007::8821006:8814001:20:632:20230319","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:007::8821006:8821717:10:642:20230319","route_long_name":"Anvers-Central -- Herentals","total_delay":1.0}
+{"trip_id":"88____:007::8821006:8833209:19:646:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":1.0}
+{"trip_id":"88____:007::8821006:8833209:19:746:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":1.0}
+{"trip_id":"88____:007::8821006:8872009:37:857:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":1.0}
+{"trip_id":"88____:007::8821006:8896008:20:804:20230319","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:007::8821121:8892007:14:606:20230319","route_long_name":"Anvers-Central -- Gand-Saint-Pierre","total_delay":1.0}
+{"trip_id":"88____:007::8821121:8892007:14:806:20230319","route_long_name":"Anvers-Central -- Ostende","total_delay":1.0}
+{"trip_id":"88____:007::8821717:8821006:10:651:20230319","route_long_name":"Anvers-Central -- Neerpelt","total_delay":1.0}
+{"trip_id":"88____:007::8831005:8821006:25:2411:20231208","route_long_name":"Anvers-Central -- Hasselt","total_delay":1.0}
+{"trip_id":"88____:007::8831005:8821006:25:824:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":1.0}
+{"trip_id":"88____:007::8831005:8891405:35:920:20230501","route_long_name":"Hasselt -- Blankenberge","total_delay":1.0}
+{"trip_id":"88____:007::8831401:8831005:3:2422:20231208","route_long_name":"Anvers-Central -- Hasselt","total_delay":1.0}
+{"trip_id":"88____:007::8831765:8891405:38:1020:20230319","route_long_name":"Genk -- Blankenberge","total_delay":1.0}
+{"trip_id":"88____:007::8832615:8832409:4:619:20230319","route_long_name":"Mol -- Neerpelt","total_delay":1.0}
+{"trip_id":"88____:007::8833001:8821006:17:724:20231209","route_long_name":"Anvers-Central -- Louvain","total_delay":1.0}
+{"trip_id":"88____:007::8833001:8892338:36:1008:20231209","route_long_name":"Landen -- La Panne","total_delay":1.0}
+{"trip_id":"88____:007::8833001:8892338:36:908:20231209","route_long_name":"Landen -- La Panne","total_delay":1.0}
+{"trip_id":"88____:007::8841673:8841004:6:647:20230319","route_long_name":"Tongres -- Liege-Guillemins","total_delay":1.0}
+{"trip_id":"88____:007::8841673:8842705:13:830:20230326","route_long_name":"Luxembourg (l) -- Liers","total_delay":1.0}
+{"trip_id":"88____:007::8844503:8891702:38:832:20230326","route_long_name":"Welkenraedt -- Ostende","total_delay":1.0}
+{"trip_id":"88____:007::8844503:8891702:38:932:20230326","route_long_name":"Welkenraedt -- Ostende","total_delay":1.0}
+{"trip_id":"88____:007::8844628:8891702:39:1032:20230326","route_long_name":"Eupen -- Ostende","total_delay":1.0}
+{"trip_id":"88____:007::8863008:8811601:11:611:20231209","route_long_name":"Bruxelles-Midi -- Namur","total_delay":1.0}
+{"trip_id":"88____:007::8863008:8881000:28:746:20230318","route_long_name":"Namur -- Mouscron","total_delay":1.0}
+{"trip_id":"88____:007::8863503:8811601:16:711:20231209","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":1.0}
+{"trip_id":"88____:007::8864006:8814001:41:828:20230319","route_long_name":"Bruxelles-Midi -- Rochefort-Jemelle","total_delay":1.0}
+{"trip_id":"88____:007::8866001:8200100:3:649:20231209","route_long_name":"Luxembourg (l) -- Arlon","total_delay":1.0}
+{"trip_id":"88____:007::8869054:8814001:52:1028:20230319","route_long_name":"Luxembourg (l) -- Bruxelles-Midi","total_delay":1.0}
+{"trip_id":"88____:007::8872009:8814001:18:656:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":1.0}
+{"trip_id":"88____:007::8872009:8814209:7:531:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":1.0}
+{"trip_id":"88____:007::8872009:8881000:13:646:20230624","route_long_name":"Charleroi-Central -- Mouscron","total_delay":1.0}
+{"trip_id":"88____:007::8881000:8819406:19:631:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":1.0}
+{"trip_id":"88____:007::8882362:8811007:19:651:20230318","route_long_name":"Schaerbeek -- Binche","total_delay":1.0}
+{"trip_id":"88____:007::8882362:8811007:19:851:20230318","route_long_name":"Schaerbeek -- Binche","total_delay":1.0}
+{"trip_id":"88____:007::8891009:8831765:36:959:20230501","route_long_name":"Genk -- Bruges","total_delay":1.0}
+{"trip_id":"88____:007::8891405:8831765:38:1059:20230501","route_long_name":"Genk -- Blankenberge","total_delay":1.0}
+{"trip_id":"88____:007::8892007:8821006:15:723:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:007::8892007:8821006:15:823:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:007::8892007:8821006:15:923:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:007::8892007:8821121:14:748:20230319","route_long_name":"Anvers-Central -- Gand-Saint-Pierre","total_delay":1.0}
+{"trip_id":"88____:007::8892007:8894201:31:845:20231209","route_long_name":"Gand-Saint-Pierre -- Lokeren","total_delay":1.0}
+{"trip_id":"88____:007::8893401:8892007:29:919:20230319","route_long_name":"Gand-Saint-Pierre -- Lokeren","total_delay":1.0}
+{"trip_id":"88____:007::8896008:8891702:9:811:20230319","route_long_name":"Ostende -- Courtrai","total_delay":1.0}
+{"trip_id":"88____:007::8896008:8892601:4:524:20230319","route_long_name":"Audenarde -- Courtrai","total_delay":1.0}
+{"trip_id":"88____:007::8896149:8892007:4:625:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:007::8896735:8896008:8:550:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:007::8896735:8896008:8:650:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:007::8896735:8896008:8:750:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":1.0}
+{"trip_id":"88____:046::8843307:8863008:9:721:20230416","route_long_name":"Liege-Guillemins -- Namur","total_delay":1.0}
+{"trip_id":"88____:046::8844008:8844420:8:722:20230416","route_long_name":"Spa-Geronstere -- Welkenraedt","total_delay":1.0}
+{"trip_id":"88____:046::8844008:8844420:8:822:20230416","route_long_name":"Spa-Geronstere -- Welkenraedt","total_delay":1.0}
+{"trip_id":"88____:046::8863008:8841004:20:747:20230416","route_long_name":"Liege-Guillemins -- Namur","total_delay":1.0}
+{"trip_id":"88____:046::8863008:8863503:6:550:20230326","route_long_name":"Namur -- Dinant","total_delay":1.0}
+{"trip_id":"88____:046::8863503:8863008:6:708:20230319","route_long_name":"Namur -- Bertrix","total_delay":1.0}
+{"trip_id":"88____:046::8863834:8865003:9:745:20230319","route_long_name":"Gendron-Celles -- Libramont","total_delay":1.0}
+{"trip_id":"88____:046::8864006:8864469:6:758:20230318","route_long_name":"Liers -- Rochefort-Jemelle","total_delay":1.0}
+{"trip_id":"88____:046::8866407:8865003:4:904:20230415","route_long_name":"Libramont -- Arlon","total_delay":1.0}
+{"trip_id":"88____:046::8866605:8200940:3:539:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":1.0}
+{"trip_id":"88____:046::8893401:8896008:15:737:20230423","route_long_name":"Malines -- Courtrai","total_delay":1.0}
+{"trip_id":"88____:046::8895505:8881166:13:722:20231209","route_long_name":"Quevy -- Grammont","total_delay":1.0}
+{"trip_id":"88____:046::8896008:8896149:3:533:20231209","route_long_name":"Gand-Saint-Pierre -- Courtrai","total_delay":1.0}
+{"trip_id":"88____:046::8896008:8896149:3:631:20230501","route_long_name":"Malines -- Courtrai","total_delay":1.0}
+{"trip_id":"88____:070::8812005:8814209:16:702:20230318","route_long_name":"Bruxelles-Nord -- Nivelles","total_delay":1.0}
+{"trip_id":"88____:070::8812005:8821006:16:855:20230318","route_long_name":"Nivelles -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:070::8814209:8812005:16:750:20230318","route_long_name":"Nivelles -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:070::8814209:8821006:31:926:20230318","route_long_name":"Nivelles -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:070::8821006:8814001:19:121:20230318","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:071::8812005:8833001:11:649:20231209","route_long_name":"Bruxelles-Midi -- Louvain","total_delay":1.0}
+{"trip_id":"88____:071::8833001:8811007:10:717:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":1.0}
+{"trip_id":"88____:071::8883006:8812005:14:708:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":1.0}
+{"trip_id":"88____:072::8811007:8895455:13:655:20230319","route_long_name":"Schaerbeek -- Burst","total_delay":1.0}
+{"trip_id":"88____:072::8811007:8895455:13:755:20230319","route_long_name":"Schaerbeek -- Burst","total_delay":1.0}
+{"trip_id":"88____:072::8895455:8811007:13:651:20230319","route_long_name":"Schaerbeek -- Zottegem","total_delay":1.0}
+{"trip_id":"88____:076::8895505:8895802:10:704:20231209","route_long_name":"Grammont -- Denderleeuw","total_delay":1.0}
+{"trip_id":"88____:080::8814001:8895802:15:639:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":1.0}
+{"trip_id":"88____:080::8895000:8895802:3:514:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":1.0}
+{"trip_id":"88____:080::8895000:8895802:3:614:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":1.0}
+{"trip_id":"88____:080::8895802:8814001:15:558:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":1.0}
+{"trip_id":"88____:080::8895802:8814001:15:703:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":1.0}
+{"trip_id":"88____:080::8895802:8814001:15:803:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":1.0}
+{"trip_id":"88____:081::8833159:8833001:4:703:20231209","route_long_name":"Ottignies -- Louvain","total_delay":1.0}
+{"trip_id":"88____:081::8833159:8833001:4:803:20231209","route_long_name":"Ottignies -- Louvain","total_delay":1.0}
+{"trip_id":"88____:097::8814209:8833001:27:715:20231209","route_long_name":"Nivelles -- Louvain","total_delay":1.0}
+{"trip_id":"88____:097::8833001:8811304:13:722:20231209","route_long_name":"Nivelles -- Louvain","total_delay":1.0}
+{"trip_id":"88____:097::8833001:8814209:27:710:20231209","route_long_name":"Nivelles -- Louvain","total_delay":1.0}
+{"trip_id":"88____:A71::8821006:8821535:6:609:20231209","route_long_name":"Roosendaal (nl) -- Anvers-Central","total_delay":1.0}
+{"trip_id":"88____:A71::8821006:8822715:10:653:20231209","route_long_name":"Essen -- Puurs","total_delay":1.0}
+{"trip_id":"88____:A71::8821402:8821519:5:645:20231209","route_long_name":"Essen -- Puurs","total_delay":1.0}
+{"trip_id":"88____:C70::8872009:8874609:7:636:20231209","route_long_name":"Jambes -- Charleroi-Central","total_delay":1.0}
+{"trip_id":"88____:G70::8892007:8893708:8:849:20230422","route_long_name":"Renaix -- Eeklo","total_delay":1.0}
+{"trip_id":"88____:G70::8893708:8892007:8:745:20231209","route_long_name":"Renaix -- Eeklo","total_delay":1.0}
+{"trip_id":"88____:L70::8841004:8844008:9:653:20231209","route_long_name":"Herstal -- Verviers-Central","total_delay":1.0}
+{"trip_id":"88____:L70::8844008:8841608:12:555:20231209","route_long_name":"Herstal -- Verviers-Central","total_delay":1.0}
+{"trip_id":"88____:L70::8844008:8841608:12:655:20231209","route_long_name":"Herstal -- Verviers-Central","total_delay":1.0}
+{"trip_id":"88____:L72::8846201:8841004:3:752:20231209","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":1.0}
+{"trip_id":"82____:007::8200136:8200134:2:742:20230327","route_long_name":"Clervaux (l) -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"82____:046::8200940:8200100:9:510:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"82____:046::8200940:8200100:9:540:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"82____:046::8200940:8200100:9:640:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"82____:046::8200940:8200100:9:710:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"82____:046::8200940:8200100:9:740:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"82____:046::8200940:8200100:9:810:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"84____:007::8400058:8821105:4:800:20230318","route_long_name":"Amsterdam Cs (nl) -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"84____:007::8400058:8821105:4:900:20230318","route_long_name":"Amsterdam Cs (nl) -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"84____:007::8400131:8400530:2:750:20230422","route_long_name":"Amsterdam Cs (nl) -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"84____:L72::8400219:8400424:3:642:20231209","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"84____:L72::8400219:8400424:3:742:20231209","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"87____:007::8728654:8728600:3:651:20231209","route_long_name":"Lille Flandres(f) -- Courtrai","total_delay":0.0}
+{"trip_id":"87____:007::8728654:8728600:5:751:20231209","route_long_name":"Lille Flandres(f) -- Courtrai","total_delay":0.0}
+{"trip_id":"87____:007::8728687:8728600:4:717:20230318","route_long_name":"Lille Flandres(f) -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8811007:8882206:20:825:20230319","route_long_name":"Schaerbeek -- Binche","total_delay":0.0}
+{"trip_id":"88____:007::8811601:8814001:17:757:20231209","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8811601:8814001:17:857:20231209","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8400131:23:818:20230422","route_long_name":"Amsterdam Cs (nl) -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8819406:7:702:20231209","route_long_name":"Bruxelles-Midi -- Brussels Airport - Zaventem","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8819406:7:731:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8819406:7:831:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8821006:20:751:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8821006:20:851:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8863008:27:813:20230319","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8883113:10:722:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8814001:8883113:11:822:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8814209:8814001:12:756:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":0.0}
+{"trip_id":"88____:007::8814308:8819406:15:824:20230506","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8819406:8814001:7:652:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8819406:8814001:7:752:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8821006:8814001:20:732:20230319","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":0.0}
+{"trip_id":"88____:007::8821006:8814001:20:832:20230319","route_long_name":"Bruxelles-Midi -- Anvers-Central","total_delay":0.0}
+{"trip_id":"88____:007::8821006:8821717:10:742:20230319","route_long_name":"Anvers-Central -- Hamont","total_delay":0.0}
+{"trip_id":"88____:007::8821006:8833209:19:846:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":0.0}
+{"trip_id":"88____:007::8821006:8896008:20:904:20230319","route_long_name":"Anvers-Central -- Poperinge","total_delay":0.0}
+{"trip_id":"88____:007::8821717:8821006:10:751:20230319","route_long_name":"Anvers-Central -- Herentals","total_delay":0.0}
+{"trip_id":"88____:007::8821907:8821006:11:808:20230325","route_long_name":"Anvers-Central -- Turnhout","total_delay":0.0}
+{"trip_id":"88____:007::8822004:8833001:8:100:20230318","route_long_name":"Malines -- Louvain","total_delay":0.0}
+{"trip_id":"88____:007::8831005:8821006:17:831:20230319","route_long_name":"Anvers-Central -- Hasselt","total_delay":0.0}
+{"trip_id":"88____:007::8831005:8821006:25:924:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":0.0}
+{"trip_id":"88____:007::8831807:8833001:7:739:20230326","route_long_name":"Saint-Trond -- Louvain","total_delay":0.0}
+{"trip_id":"88____:007::8832409:8832664:5:708:20230319","route_long_name":"Mol -- Hamont","total_delay":0.0}
+{"trip_id":"88____:007::8832409:8832664:5:808:20230319","route_long_name":"Mol -- Hamont","total_delay":0.0}
+{"trip_id":"88____:007::8832664:8832409:5:719:20230319","route_long_name":"Mol -- Hamont","total_delay":0.0}
+{"trip_id":"88____:007::8833001:8821006:17:624:20231209","route_long_name":"Anvers-Central -- Louvain","total_delay":0.0}
+{"trip_id":"88____:007::8833001:8831807:7:656:20230326","route_long_name":"Saint-Trond -- Louvain","total_delay":0.0}
+{"trip_id":"88____:007::8833001:8831807:7:756:20230326","route_long_name":"Saint-Trond -- Louvain","total_delay":0.0}
+{"trip_id":"88____:007::8833209:8831005:7:723:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":0.0}
+{"trip_id":"88____:007::8833209:8831005:7:823:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":0.0}
+{"trip_id":"88____:007::8833209:8831005:7:923:20231209","route_long_name":"Anvers-Central -- Hasselt","total_delay":0.0}
+{"trip_id":"88____:007::8833605:8892007:31:947:20230318","route_long_name":"Landen -- La Panne","total_delay":0.0}
+{"trip_id":"88____:007::8841004:8841673:6:636:20230319","route_long_name":"Tongres -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:007::8841004:8841673:6:736:20230319","route_long_name":"Tongres -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:007::8841608:8881000:50:946:20230326","route_long_name":"Liers -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8841673:8841004:6:747:20230319","route_long_name":"Tongres -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:007::8841673:8841608:3:723:20230326","route_long_name":"Liers -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8842705:8200136:8:932:20230326","route_long_name":"Luxembourg (l) -- Liers","total_delay":0.0}
+{"trip_id":"88____:007::8845005:8200136:3:732:20230327","route_long_name":"Clervaux (l) -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:007::8845005:8841673:18:824:20231209","route_long_name":"Liers -- Gouvy","total_delay":0.0}
+{"trip_id":"88____:007::8863008:8863503:6:748:20230319","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8863008:8863503:6:848:20230319","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8863008:8863545:5:640:20231209","route_long_name":"Namur -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8863503:8811601:16:811:20231209","route_long_name":"Bruxelles-Midi -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8863545:8863503:2:648:20231209","route_long_name":"Namur -- Dinant","total_delay":0.0}
+{"trip_id":"88____:007::8864006:8200100:13:1049:20230319","route_long_name":"Luxembourg (l) -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:007::8864006:8200100:13:949:20230319","route_long_name":"Luxembourg (l) -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:007::8866001:8200100:3:749:20231209","route_long_name":"Luxembourg (l) -- Arlon","total_delay":0.0}
+{"trip_id":"88____:007::8872009:8814209:7:731:20230319","route_long_name":"Anvers-Central -- Charleroi-Central","total_delay":0.0}
+{"trip_id":"88____:007::8874609:8874724:3:814:20230325","route_long_name":"Liers -- Mouscron","total_delay":0.0}
+{"trip_id":"88____:007::8881000:8814001:13:705:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8881000:8814001:13:805:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8881000:8874609:19:806:20230325","route_long_name":"Liers -- Mouscron","total_delay":0.0}
+{"trip_id":"88____:007::8883113:8881000:7:642:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8883113:8881000:7:742:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8883113:8881000:7:842:20231209","route_long_name":"Brussels Airport - Zaventem -- Mons","total_delay":0.0}
+{"trip_id":"88____:007::8883311:8814308:2:636:20231209","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8884004:8885704:12:752:20230319","route_long_name":"Saint-Ghislain -- Mouscron","total_delay":0.0}
+{"trip_id":"88____:007::8885001:8728687:4:658:20230318","route_long_name":"Lille Flandres(f) -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8885001:8814308:6:731:20230506","route_long_name":"Brussels Airport - Zaventem -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8885704:8728654:3:636:20231209","route_long_name":"Lille Flandres(f) -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8885704:8728654:3:732:20231209","route_long_name":"Lille Flandres(f) -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8885704:8884004:12:752:20230319","route_long_name":"Saint-Ghislain -- Mouscron","total_delay":0.0}
+{"trip_id":"88____:007::8889011:8885704:2:731:20231209","route_long_name":"Lille Flandres(f) -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8889045:8885001:3:714:20230318","route_long_name":"Lille Flandres(f) -- Tournai","total_delay":0.0}
+{"trip_id":"88____:007::8891009:8891405:3:704:20231209","route_long_name":"Bruges -- Blankenberge","total_delay":0.0}
+{"trip_id":"88____:007::8891009:8891660:5:655:20230319","route_long_name":"Bruges -- Knokke","total_delay":0.0}
+{"trip_id":"88____:007::8891009:8891660:5:755:20230319","route_long_name":"Bruges -- Knokke","total_delay":0.0}
+{"trip_id":"88____:007::8891009:8891702:2:626:20230319","route_long_name":"Bruges -- Ostende","total_delay":0.0}
+{"trip_id":"88____:007::8891009:8891702:2:726:20230319","route_long_name":"Bruges -- Ostende","total_delay":0.0}
+{"trip_id":"88____:007::8891660:8891009:5:727:20230319","route_long_name":"Bruges -- Knokke","total_delay":0.0}
+{"trip_id":"88____:007::8891702:8891009:2:648:20230319","route_long_name":"Bruges -- Ostende","total_delay":0.0}
+{"trip_id":"88____:007::8891702:8891009:2:748:20230319","route_long_name":"Bruges -- Ostende","total_delay":0.0}
+{"trip_id":"88____:007::8891702:8892601:12:824:20230319","route_long_name":"Ostende -- Audenarde","total_delay":0.0}
+{"trip_id":"88____:007::8892007:8819406:8:802:20230326","route_long_name":"Brussels Airport - Zaventem -- Gand-Saint-Pierre","total_delay":0.0}
+{"trip_id":"88____:007::8892007:8892205:6:1030:20230318","route_long_name":"Landen -- La Panne","total_delay":0.0}
+{"trip_id":"88____:007::8892338:8833605:41:1023:20230318","route_long_name":"Landen -- La Panne","total_delay":0.0}
+{"trip_id":"88____:007::8892601:8891702:12:911:20230319","route_long_name":"Ostende -- Audenarde","total_delay":0.0}
+{"trip_id":"88____:007::8894201:8893401:3:729:20230319","route_long_name":"Gand-Saint-Pierre -- Lokeren","total_delay":0.0}
+{"trip_id":"88____:007::8895455:8819406:17:646:20230319","route_long_name":"Brussels Airport - Zaventem -- Burst","total_delay":0.0}
+{"trip_id":"88____:007::8895802:8894201:20:745:20231209","route_long_name":"Gand-Saint-Pierre -- Lokeren","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8885704:2:623:20231209","route_long_name":"Lille Flandres(f) -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8885704:2:723:20231209","route_long_name":"Lille Flandres(f) -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8891009:8:727:20230529","route_long_name":"Bruges -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8892601:4:624:20230319","route_long_name":"Audenarde -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8892601:4:724:20230319","route_long_name":"Audenarde -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8896149:3:607:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8896149:3:707:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":0.0}
+{"trip_id":"88____:007::8896008:8896149:3:807:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":0.0}
+{"trip_id":"88____:007::8896149:8892007:4:724:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":0.0}
+{"trip_id":"88____:007::8896149:8892007:4:824:20230326","route_long_name":"Anvers-Central -- Poperinge","total_delay":0.0}
+{"trip_id":"88____:046::8811726:8872413:12:724:20230507","route_long_name":"Wavre -- Fleurus","total_delay":0.0}
+{"trip_id":"88____:046::8821006:8833001:13:748:20231209","route_long_name":"Anvers-Central -- Louvain","total_delay":0.0}
+{"trip_id":"88____:046::8822004:8833001:9:810:20230319","route_long_name":"Malines -- Louvain","total_delay":0.0}
+{"trip_id":"88____:046::8822111:8893401:5:732:20230423","route_long_name":"Malines -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:046::8831005:8832409:9:823:20230604","route_long_name":"Hasselt -- Mol","total_delay":0.0}
+{"trip_id":"88____:046::8833001:8821006:13:814:20231209","route_long_name":"Anvers-Central -- Louvain","total_delay":0.0}
+{"trip_id":"88____:046::8833001:8822004:9:724:20230319","route_long_name":"Malines -- Louvain","total_delay":0.0}
+{"trip_id":"88____:046::8844420:8015345:14:856:20230416","route_long_name":"Aachen Hbf (d) -- Spa-Geronstere","total_delay":0.0}
+{"trip_id":"88____:046::8844503:8015345:4:756:20231209","route_long_name":"Aachen Hbf (d) -- Spa-Geronstere","total_delay":0.0}
+{"trip_id":"88____:046::8844503:8844008:4:634:20230416","route_long_name":"Spa-Geronstere -- Welkenraedt","total_delay":0.0}
+{"trip_id":"88____:046::8844503:8844008:4:734:20230416","route_long_name":"Spa-Geronstere -- Welkenraedt","total_delay":0.0}
+{"trip_id":"88____:046::8861200:8811601:6:757:20231209","route_long_name":"Ottignies -- Namur","total_delay":0.0}
+{"trip_id":"88____:046::8861440:8863008:2:655:20231209","route_long_name":"Ottignies -- Namur","total_delay":0.0}
+{"trip_id":"88____:046::8863008:8861200:6:724:20231209","route_long_name":"Ottignies -- Namur","total_delay":0.0}
+{"trip_id":"88____:046::8864006:8864501:7:744:20231209","route_long_name":"Rochefort-Jemelle -- Ciney","total_delay":0.0}
+{"trip_id":"88____:046::8864469:8841673:17:910:20230318","route_long_name":"Liers -- Rochefort-Jemelle","total_delay":0.0}
+{"trip_id":"88____:046::8864501:8863008:9:738:20231209","route_long_name":"Namur -- Ciney","total_delay":0.0}
+{"trip_id":"88____:046::8865003:8863834:9:825:20230319","route_long_name":"Gendron-Celles -- Libramont","total_delay":0.0}
+{"trip_id":"88____:046::8865003:8866001:7:755:20231209","route_long_name":"Libramont -- Arlon","total_delay":0.0}
+{"trip_id":"88____:046::8866605:8200940:3:439:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8866605:8200940:3:509:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8866605:8200940:3:609:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8866605:8200940:3:639:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8866605:8200940:3:709:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8866605:8200940:3:739:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8869047:8866605:2:555:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8869047:8866605:2:625:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8869047:8866605:2:655:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8869047:8866605:2:725:20231209","route_long_name":"Luxembourg (l) -- Athus","total_delay":0.0}
+{"trip_id":"88____:046::8881000:8881166:4:736:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8881000:8881505:4:751:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8881000:8881505:4:851:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8881166:8881000:4:734:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8881166:8881000:4:834:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8881166:8886009:7:758:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8881505:8881000:4:722:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8882701:8882107:2:732:20230416","route_long_name":"Charleroi-Central -- La Louviere- Centre","total_delay":0.0}
+{"trip_id":"88____:046::8884004:8884335:5:656:20230624","route_long_name":"Saint-Ghislain -- Quievrain","total_delay":0.0}
+{"trip_id":"88____:046::8884335:8884004:5:718:20230624","route_long_name":"Saint-Ghislain -- Quievrain","total_delay":0.0}
+{"trip_id":"88____:046::8886009:8895505:7:725:20231209","route_long_name":"Ath -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8886009:8895505:7:825:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8891009:8891173:4:754:20230529","route_long_name":"Bruges -- Zeebrugge-Strand","total_delay":0.0}
+{"trip_id":"88____:046::8893401:8822111:5:741:20230501","route_long_name":"Malines -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:046::8894508:8822715:4:656:20230319","route_long_name":"Puurs -- Saint-Nicolas","total_delay":0.0}
+{"trip_id":"88____:046::8894508:8822715:4:756:20230319","route_long_name":"Puurs -- Saint-Nicolas","total_delay":0.0}
+{"trip_id":"88____:046::8895505:8881166:13:822:20231209","route_long_name":"Quevy -- Grammont","total_delay":0.0}
+{"trip_id":"88____:046::8896008:8822111:19:839:20230319","route_long_name":"Londerzeel -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:046::8896149:8893401:13:725:20230501","route_long_name":"Malines -- Courtrai","total_delay":0.0}
+{"trip_id":"88____:070::8821006:8814209:31:859:20230318","route_long_name":"Nivelles -- Anvers-Central","total_delay":0.0}
+{"trip_id":"88____:070::8821006:8814209:31:926:20230318","route_long_name":"Nivelles -- Anvers-Central","total_delay":0.0}
+{"trip_id":"88____:071::8811007:8812005:2:650:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8811007:8812005:2:722:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8811007:8812005:2:750:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8811007:8833001:10:749:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8811007:8833001:10:817:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8811007:8833001:10:849:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8812005:8811007:2:714:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8812005:8811007:2:742:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8812005:8811007:2:814:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8812005:8814001:5:732:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8812005:8883006:14:738:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8812005:8883006:14:838:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8814001:8812005:5:608:20231209","route_long_name":"Bruxelles-Midi -- Louvain","total_delay":0.0}
+{"trip_id":"88____:071::8814001:8812005:5:736:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8814001:8883006:10:810:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8833001:8811007:10:644:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8833001:8811007:10:744:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8883006:8812005:14:808:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:071::8883006:8814001:10:726:20231209","route_long_name":"Louvain -- Braine-Le-Comte","total_delay":0.0}
+{"trip_id":"88____:072::8895455:8811007:13:751:20230319","route_long_name":"Schaerbeek -- Zottegem","total_delay":0.0}
+{"trip_id":"88____:076::8811007:8814308:11:802:20231209","route_long_name":"Schaerbeek -- Denderleeuw","total_delay":0.0}
+{"trip_id":"88____:076::8883311:8811007:12:824:20230507","route_long_name":"Schaerbeek -- Denderleeuw","total_delay":0.0}
+{"trip_id":"88____:076::8883311:8895802:15:904:20231209","route_long_name":"Schaerbeek -- Denderleeuw","total_delay":0.0}
+{"trip_id":"88____:076::8895505:8895802:10:804:20231209","route_long_name":"Grammont -- Denderleeuw","total_delay":0.0}
+{"trip_id":"88____:078::8811304:8811601:11:743:20231209","route_long_name":"Ottignies -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:078::8811304:8814001:7:812:20231209","route_long_name":"Ottignies -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:078::8811601:8811304:11:751:20231209","route_long_name":"Ottignies -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:078::8811601:8811676:2:701:20231209","route_long_name":"Ottignies -- Louvain-La-Neuve","total_delay":0.0}
+{"trip_id":"88____:078::8811601:8811676:2:729:20231209","route_long_name":"Ottignies -- Louvain-La-Neuve","total_delay":0.0}
+{"trip_id":"88____:078::8811676:8811601:2:605:20231209","route_long_name":"Louvain-La-Neuve -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:078::8811676:8811601:2:705:20231209","route_long_name":"Ottignies -- Louvain-La-Neuve","total_delay":0.0}
+{"trip_id":"88____:078::8811676:8811601:2:737:20231209","route_long_name":"Ottignies -- Louvain-La-Neuve","total_delay":0.0}
+{"trip_id":"88____:078::8814001:8811304:7:708:20231209","route_long_name":"Ottignies -- Bruxelles-Midi","total_delay":0.0}
+{"trip_id":"88____:080::8812047:8814001:5:754:20231209","route_long_name":"Bruxelles-Midi -- Termonde","total_delay":0.0}
+{"trip_id":"88____:080::8814001:8895802:15:739:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":0.0}
+{"trip_id":"88____:080::8893401:8812047:10:738:20231209","route_long_name":"Bruxelles-Midi -- Termonde","total_delay":0.0}
+{"trip_id":"88____:080::8895000:8895802:3:714:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":0.0}
+{"trip_id":"88____:080::8895802:8895000:3:654:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":0.0}
+{"trip_id":"88____:080::8895802:8895000:3:754:20231209","route_long_name":"Bruxelles-Midi -- Alost","total_delay":0.0}
+{"trip_id":"88____:081::8833001:8833159:4:711:20231209","route_long_name":"Ottignies -- Louvain","total_delay":0.0}
+{"trip_id":"88____:081::8833159:8811601:10:738:20231209","route_long_name":"Ottignies -- Louvain","total_delay":0.0}
+{"trip_id":"88____:097::8811304:8814209:15:810:20231209","route_long_name":"Nivelles -- Louvain","total_delay":0.0}
+{"trip_id":"88____:097::8811304:8833001:13:815:20231209","route_long_name":"Nivelles -- Louvain","total_delay":0.0}
+{"trip_id":"88____:097::8814209:8811304:15:737:20231209","route_long_name":"Nivelles -- Louvain","total_delay":0.0}
+{"trip_id":"88____:A71::8821006:8821535:6:709:20231209","route_long_name":"Roosendaal (nl) -- Puurs","total_delay":0.0}
+{"trip_id":"88____:A71::8821402:8821535:6:750:20231209","route_long_name":"Roosendaal (nl) -- Puurs","total_delay":0.0}
+{"trip_id":"88____:A71::8821519:8400526:7:739:20231209","route_long_name":"Roosendaal (nl) -- Puurs","total_delay":0.0}
+{"trip_id":"88____:A71::8821519:8821535:2:650:20231209","route_long_name":"Essen -- Puurs","total_delay":0.0}
+{"trip_id":"88____:A71::8821535:8821121:7:716:20231209","route_long_name":"Essen -- Puurs","total_delay":0.0}
+{"trip_id":"88____:A71::8821535:8821519:2:614:20231209","route_long_name":"Roosendaal (nl) -- Anvers-Central","total_delay":0.0}
+{"trip_id":"88____:A71::8821535:8821519:2:714:20231209","route_long_name":"Roosendaal (nl) -- Puurs","total_delay":0.0}
+{"trip_id":"88____:A71::8822715:8400526:22:839:20231209","route_long_name":"Roosendaal (nl) -- Puurs","total_delay":0.0}
+{"trip_id":"88____:A71::8829009:8821402:2:729:20231209","route_long_name":"Roosendaal (nl) -- Puurs","total_delay":0.0}
+{"trip_id":"88____:C70::8811601:8811726:4:650:20231209","route_long_name":"Ottignies -- Wavre","total_delay":0.0}
+{"trip_id":"88____:C70::8863008:8872009:16:742:20230514","route_long_name":"Wavre -- Namur","total_delay":0.0}
+{"trip_id":"88____:C70::8874609:8874724:3:644:20231209","route_long_name":"Jambes -- Charleroi-Central","total_delay":0.0}
+{"trip_id":"88____:C70::8874724:8863115:9:716:20231209","route_long_name":"Jambes -- Charleroi-Central","total_delay":0.0}
+{"trip_id":"88____:C71::8882107:8872009:8:807:20231209","route_long_name":"Charleroi-Central -- La Louviere- Centre","total_delay":0.0}
+{"trip_id":"88____:C72::8872009:8729500:13:720:20230416","route_long_name":"Maubeuge (f) -- Charleroi-Central","total_delay":0.0}
+{"trip_id":"88____:C73::8873007:8872009:8:746:20231209","route_long_name":"Charleroi-Central -- Couvin","total_delay":0.0}
+{"trip_id":"88____:C73::8875127:8873007:5:715:20231209","route_long_name":"Charleroi-Central -- Couvin","total_delay":0.0}
+{"trip_id":"88____:G70::8892007:8892908:8:846:20231209","route_long_name":"Renaix -- Eeklo","total_delay":0.0}
+{"trip_id":"88____:G70::8892080:8892007:2:803:20230422","route_long_name":"Renaix -- Eeklo","total_delay":0.0}
+{"trip_id":"88____:G70::8892908:8892080:7:754:20230422","route_long_name":"Renaix -- Eeklo","total_delay":0.0}
+{"trip_id":"88____:G72::8892007:8821121:14:803:20230319","route_long_name":"Anvers-Berchem -- Gand-Saint-Pierre","total_delay":0.0}
+{"trip_id":"88____:L70::8841004:8844008:9:753:20231209","route_long_name":"Herstal -- Verviers-Central","total_delay":0.0}
+{"trip_id":"88____:L70::8841608:8841004:4:718:20231209","route_long_name":"Herstal -- Verviers-Central","total_delay":0.0}
+{"trip_id":"88____:L70::8844008:8841608:12:755:20231209","route_long_name":"Herstal -- Verviers-Central","total_delay":0.0}
+{"trip_id":"88____:L71::8841004:8841608:4:809:20231209","route_long_name":"Liers -- Flemalle-Haute","total_delay":0.0}
+{"trip_id":"88____:L71::8841608:8841673:3:819:20231209","route_long_name":"Liers -- Flemalle-Haute","total_delay":0.0}
+{"trip_id":"88____:L71::8843208:8841004:5:754:20231209","route_long_name":"Liers -- Flemalle-Haute","total_delay":0.0}
+{"trip_id":"88____:L72::8841004:8846201:3:725:20231209","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:L72::8846201:8400219:3:631:20231209","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:L72::8846201:8400219:3:731:20231209","route_long_name":"Maastricht (nl) -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:L73::8833605:8841004:10:754:20230416","route_long_name":"Landen -- Liege-Guillemins","total_delay":0.0}
+{"trip_id":"88____:L73::8841004:8833605:10:748:20230416","route_long_name":"Landen -- Liege-Guillemins","total_delay":0.0}
